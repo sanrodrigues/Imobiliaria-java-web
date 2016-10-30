@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+#login-nav input { margin-bottom: 15px; }
+.carousel-inner  .item  img,
+  .carousel-inner .item  a  img {
+      width: 100%;
+      margin: auto;
+  }
+  .sidebar {
+    z-index: 1;
+    position: absolute;
+    width: 250px;
+    margin-top: 51px;
+  }
