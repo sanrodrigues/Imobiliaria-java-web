@@ -3,12 +3,15 @@
 ## Nessa aplicação o sistema realiza um crud na base de dados.
 
 ## Instituição: SENAC Blumenau
-<p>Curso: Análise e desenvolvimento de software
-<p>Disciplina: Desenvolvimento Web
-<p>Professor: Fabiano Oss
-Técnologias utilizadas.
-* Java Tomcat 8.5
-* MySql
-* HTML5
-* Twitter Bootstrap
-* Bibliotecas Java:
+<p> Curso: Análise e desenvolvimento de software
+<p> Disciplina: Desenvolvimento Web
+<p> Professor: Fabiano Oss
+<ol> 
+<h3>Técnologias utilizadas:</h3>
+<ul>
+<li> Java Tomcat 8.5</li>
+<li> MySql</li>
+<li> HTML5</li>
+<li> Twitter Bootstrap</li>
+<li> Bibliotecas Java:</li></ul>
+</ol>
